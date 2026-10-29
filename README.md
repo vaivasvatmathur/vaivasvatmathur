@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,45:2563EB,100:06B6D4&height=230&section=header&text=Vaivasvat%20Mathur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Purple to cyan gradient banner with Vaivasvat Mathur's name" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,45:2563EB,100:06B6D4&height=230&section=header&text=Vaivasvat%20Mathur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20%E2%80%A2%20LEARNING%20%E2%80%A2%20SHIPING&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Purple to cyan gradient banner with Vaivasvat Mathur's name" />
 
 <h2><img src="https://api.iconify.design/lucide/hand.svg?color=%2338BDF8" width="24" height="24" align="absmiddle" alt="" /> Hey, I'm Vaivasvat</h2>
 
@@ -149,7 +149,7 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 
 </div>
 
-<img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> Contributions, but make it a game
+<img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> Contributions, but a game
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaivasvatmathur/vaivasvatmathur/output/github-contribution-grid-snake-dark.svg">
