@@ -84,7 +84,6 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 </tr>
 </table>
 
-<sub>Project links open repository search within my GitHub profile, so they still work without guessing repository names. Replace them with direct repository URLs whenever you want to feature the exact repos.</sub>
 <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> LeetCode corner
 <div align="center">
 
@@ -96,36 +95,41 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 <a href="https://leetcode.com/u/vaivasvat_mathur/"><img src="https://img.shields.io/badge/OPEN%20MY%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile" /></a>
 </div>
 
+<img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> ## GitHub activity
 
-<sub>The card is loaded from a community-maintained stats service. It may occasionally be unavailable or lag behind. Your LeetCode profile is the source of truth for solved counts and current activity; a separate current-streak field is not guaranteed by every widget.</sub>
-<img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> GitHub activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub stats for vaivasvatmathur">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark"
+    />
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"
+      alt="GitHub statistics for vaivasvatmathur"
+    />
   </picture>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most-used languages in public repositories">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+    />
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=default"
+      alt="Most-used languages in public repositories"
+    />
   </picture>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=github-dark-blue">
-    <img src="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=default" alt="GitHub contribution streak">
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=github-dark-blue"
+    alt="GitHub contribution streak for vaivasvatmathur"
+  />
 </div>
 
-<img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> Contributions, but make it a game
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaivasvatmathur/vaivasvatmathur/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/vaivasvatmathur/vaivasvatmathur/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<sub>If the snake is not visible yet, add the workflow below to this profile repository and run it once from the Actions tab.</sub>
 <img src="https://api.iconify.design/lucide/send.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> Find me around the web
 <div align="center">
   <a href="https://github.com/vaivasvatmathur"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
