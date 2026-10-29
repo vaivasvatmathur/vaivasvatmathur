@@ -84,7 +84,6 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 </tr>
 </table>
 
-<sub>Project links open repository search within my GitHub profile, so they still work without guessing repository names. Replace them with direct repository URLs whenever you want to feature the exact repos.</sub>
 🧠 LeetCode corner
 <div align="center">
 
@@ -97,24 +96,39 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 </div>
 
 
-<sub>The card is loaded from a community-maintained stats service. It may occasionally be unavailable or lag behind. Your LeetCode profile is the source of truth for solved counts and current activity; a separate current-streak field is not guaranteed by every widget.</sub>
-📈 GitHub activity
+## 📈 GitHub activity
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub stats for vaivasvatmathur">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark"
+    />
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"
+      alt="GitHub statistics for vaivasvatmathur"
+    />
   </picture>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most-used languages in public repositories">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+    />
+    <img
+      height="170"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=default"
+      alt="Most-used languages in public repositories"
+    />
   </picture>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=github-dark-blue">
-    <img src="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=default" alt="GitHub contribution streak">
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=github-dark-blue"
+    alt="GitHub contribution streak for vaivasvatmathur"
+  />
 </div>
 
 🐍 Contributions, but make it a game
