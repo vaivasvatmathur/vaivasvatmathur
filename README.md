@@ -1,21 +1,113 @@
-# Hey! I'm Vaivasvat.
-🔭 Exploring software engineering and building real-world applications  <br>🤝 Open to collaborating on full-stack and open-source projects  <br>🛠️ Strengthening my skills in backend development and system design  <br>🌱 Diving deeper into networking, cloud computing, and DevOps  <br>💬 Happy to discuss web development, APIs, and cloud technologies  <br>⚡ I love turning ideas into functional projects and learning by building
+<div align="center">
 
+<!-- Adaptive banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Vaivasvat%20Mathur&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20Networking&descAlignY=58&descSize=16">
+  <img alt="Vaivasvat Mathur — Software Development, Full Stack, Cloud and Networking" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:eff6ff,50:bfdbfe,100:a5f3fc&text=Vaivasvat%20Mathur&fontSize=42&fontColor=0f172a&fontAlignY=38&desc=Software%20Development%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20Networking&descAlignY=58&descSize=16">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaivasvat-mathur24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathurvaivasvat@gmail.com) 
+Hey there! I'm Vaivasvat 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+IT+student+%7C+Developer+in+progress;Building+useful%2C+real-world+applications;Exploring+full-stack+engineering+and+cloud;Learning+by+building%2C+one+commit+at+a+time" alt="Typing animation introducing Vaivasvat" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vaivasvatmathur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vaivasvatmathur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaivasvatmathur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/vaivasvatmathur"><img src="https://img.shields.io/badge/GitHub-vaivasvatmathur-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://leetcode.com/u/vaivasvat_mathur/"><img src="https://img.shields.io/badge/LeetCode-vaivasvat__mathur-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"></a>
+  <a href="https://www.linkedin.com/in/vaivasvat-mathur24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:mathurvaivasvat@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vaivasvat"></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaivasvatmathur&theme=default&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+👨‍💻 About Me
+- 🎓 Third-year B.Tech Information Technology student.
+- 💻 Interested in software development, full-stack engineering, networking, and cloud computing.
+- 🧩 I enjoy turning ideas into practical applications and learning by solving real problems.
+- 🌱 Currently strengthening my skills across frontend, backend, databases, and cloud technologies.
+- 🤝 Open to collaborating on meaningful projects and learning alongside other developers.
+🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,html,css,react,nextjs,nodejs,spring,postgres,mongodb,supabase,git,github&perline=5" alt="Technologies: Java, C++, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Spring Boot, PostgreSQL, MongoDB, Supabase, Git and GitHub" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Exploring-2563EB?style=flat-square&logo=icloud&logoColor=white" alt="Cloud computing">
+  <img src="https://img.shields.io/badge/Computer%20Networking-Learning-0891B2?style=flat-square&logo=cisco&logoColor=white" alt="Computer networking">
+</p>
+
+🚀 Featured Projects
+Explore the repositories on my profile. The links below use GitHub's repository search scoped to my account so they remain useful even if a project repository has a different name.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 AmiSphere</h3>
+      <p align="center">An alumni portal concept focused on connecting alumni and students through profiles, discovery, and engagement.</p>
+      <p align="center"><a href="https://github.com/vaivasvatmathur?tab=repositories&q=AmiSphere">View project repositories ↗</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧾 Cedur Payroll Compliance Checker</h3>
+      <p align="center">A payroll-focused tool concept for checking payslip structure and common PF, ESI, and salary compliance issues.</p>
+      <p align="center"><a href="https://github.com/vaivasvatmathur?tab=repositories&q=Cedur">View project repositories ↗</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📍 Campus Pulse</h3>
+      <p align="center">A campus-oriented application focused on location management and complaint submission workflows.</p>
+      <p align="center"><a href="https://github.com/vaivasvatmathur?tab=repositories&q=Campus%20Pulse">View project repositories ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+🧠 LeetCode Journey
+<p align="center">
+  <a href="https://leetcode.com/u/vaivasvat_mathur/">
+    <img src="https://leetcard.jacoblin.cool/vaivasvat_mathur?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode statistics and submission heatmap for vaivasvat_mathur" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vaivasvat_mathur/"><img src="https://img.shields.io/badge/View%20Live%20Solved%20Count-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View current solved count and activity on LeetCode"></a>
+</p>
+
+The card above fetches stats dynamically from a community-maintained service. If it stops loading, visit my LeetCode profile for the authoritative solved count and activity. A separate current-streak value is not guaranteed by every third-party card, so I have not hardcoded one.
+📊 GitHub at a Glance
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaivasvatmathur&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub statistics for vaivasvatmathur">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivasvatmathur&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most-used programming languages in public repositories">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=github-dark-blue">
+    <img src="https://streak-stats.demolab.com?user=vaivasvatmathur&hide_border=true&theme=default" alt="GitHub contribution streak for vaivasvatmathur">
+  </picture>
+</div>
+
+🐍 Contribution Trail
+Once the contribution-snake workflow below is enabled, this animation will show your GitHub contribution graph as a snake game.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaivasvatmathur/vaivasvatmathur/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Animated snake moving through the GitHub contribution graph" src="https://raw.githubusercontent.com/vaivasvatmathur/vaivasvatmathur/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaivasvat-mathur24"><img src="https://img.shields.io/badge/LinkedIn-Vaivasvat%20Mathur-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:mathurvaivasvat@gmail.com"><img src="https://img.shields.io/badge/Gmail-mathurvaivasvat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<div align="center">
+
+Thanks for stopping by — feel free to explore my repositories and say hello!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:06b6d4,50:2563eb,100:0f172a" alt="Decorative footer banner">
+
+</div>
