@@ -60,7 +60,7 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 
 <p align="center">An alumni portal concept to support alumni profiles, discovery, and community engagement.</p>
 
-<p align="center"><a href="https://github.com/vaivasvatmathur?tab=repositories&q=AmiSphere">Explore repositories ↗</a></p>
+<p align="center"><a href="https://github.com/vaivasvatmathur/AmiSphere-Alumni-Portal">Explore repositories ↗</a></p>
 
 </td>
 <td width="33%" valign="top">
@@ -69,7 +69,7 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 
 <p align="center">A payroll compliance tool concept for payslip checks, PF and ESI validation, and salary structure review.</p>
 
-<p align="center"><a href="https://github.com/vaivasvatmathur?tab=repositories&q=Cedur">Explore repositories ↗</a></p>
+<p align="center"><a href="https://github.com/vaivasvatmathur/Cedur-Free-Tool">Explore repositories ↗</a></p>
 
 </td>
 <td width="33%" valign="top">
