@@ -166,8 +166,15 @@ I'm a third-year B.Tech Information Technology student who enjoys building pract
 
 <div align="center">
 
-<img src="https://api.iconify.design/lucide/sparkles.svg?color=%2338BDF8" width="22" height="22" align="absmiddle" alt="" /> Thanks for stopping by
-Explore a repo, share an idea, or let's build something useful.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=120&section=footer" width="100%" alt="Blue and purple gradient footer" />
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Keep+building.+Keep+learning.+Keep+shipping.;Great+software+starts+with+curiosity.;Every+bug+is+a+chance+to+understand+more.;Small+commits.+Big+progress."
+  alt="Rotating motivational tech quotes"
+/>
+
+</div>
+
 
 </div>
